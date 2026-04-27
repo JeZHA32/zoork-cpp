@@ -1,0 +1,3 @@
+C:/Users/Yx/Desktop/former/PROFESSIONAL SOFTWARE DEVELOPMENT/assignment3/ZOOrk/cmake-build-debug/CMakeFiles/ZOOrk.dir
+C:/Users/Yx/Desktop/former/PROFESSIONAL SOFTWARE DEVELOPMENT/assignment3/ZOOrk/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yx/Desktop/former/PROFESSIONAL SOFTWARE DEVELOPMENT/assignment3/ZOOrk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
